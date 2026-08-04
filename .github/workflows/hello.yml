@@ -1,0 +1,24 @@
+name: 액션 실습 # 워크플로우의 이름
+
+# 언제 실행할지 결정 (Trigger)
+on:
+  push:
+    branches: [ "main" ] # main 브랜치에 push가 일어날 때 실행
+
+# 실제 할 일 (Jobs)
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest # 실행될 가상 컴퓨터 환경 (우분투 최신버전)
+
+    steps:
+      # 1. 간단한 한 줄 명령어 실행
+      - name: 인사하기!!!
+        run: echo "안녕하세요! GitHub Actions가 성공적으로 실행되었습니다. 🎉"
+
+      # 2. 여러 줄의 명령어 실행
+      - name: 현재 환경 확인하기
+        run: |
+          echo "현재 실행 중인 운영체제는?"
+          uname -a
+          echo "현재 디렉토리 파일 목록:"
+          ls -al
