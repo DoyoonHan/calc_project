@@ -18,3 +18,6 @@ def div(a, b):
 
 def mod(a, b):
     return a % b
+
+def cube(a):
+    return a ** 3
