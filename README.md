@@ -32,7 +32,12 @@ def div(a, b):
 return a / b
 ```
 
-### 2. 개발자 - 박성훈 - noii@kkokiyo.app
+### 2. 개발자 
+
+- 박성훈 
+- noii@kkokiyo.app
+- https://www.naver.com
+
 ---
 Thankss :)
 고맙습니다 :)
