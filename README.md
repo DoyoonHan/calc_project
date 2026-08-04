@@ -44,7 +44,7 @@ return a ** 2
 - 박성훈 
 - noii@kkokiyo.app
 - naver.com
-
+- 파트너 juunppang
 ---
 Thankss :)
 고맙습니다 :)
