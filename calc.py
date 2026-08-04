@@ -12,3 +12,6 @@ def div(a, b):
         return 0
     else:
         return a / b
+
+def mod(a, b):
+    return a % b
