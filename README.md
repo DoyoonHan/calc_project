@@ -32,18 +32,10 @@ def div(a, b):
 return a / b
 ```
 
-- 제곱
-
-```
-def square(a):
-return a ** 2
-```
-
 ### 2. 개발자 
 
 - 박성훈 
 - noii@kkokiyo.app
-- https://www.naver.com
 
 ---
 Thankss :)
