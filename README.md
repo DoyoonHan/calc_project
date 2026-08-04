@@ -36,7 +36,6 @@ return a / b
 
 - 박성훈 
 - noii@kkokiyo.app
-- https://www.naver.com
 
 ---
 Thankss :)
