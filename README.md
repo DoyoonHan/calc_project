@@ -34,4 +34,4 @@ return a / b
 
 ### 2. 개발자 - 박성훈 - noii@kkokiyo.app
 ---
-고맙습니다 :)
+Thanks :)
