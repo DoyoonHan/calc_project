@@ -18,3 +18,6 @@ def div(a, b):
 
 def mod(a, b):
     return a % b
+
+def square(a):
+    return a ** 2
