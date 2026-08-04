@@ -32,6 +32,13 @@ def div(a, b):
 return a / b
 ```
 
+- 제곱
+
+```
+def square(a):
+return a ** 2
+```
+
 ### 2. 개발자 
 
 - 박성훈 
@@ -41,3 +48,4 @@ return a / b
 ---
 Thankss :)
 고맙습니다 :)
+
