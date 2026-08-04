@@ -8,6 +8,7 @@ def mul(a, b):
     return a * b
 
 def div(a, b):
-    if b == 0:
-        raise ZeroDivisionError
-    return a / b
+    if b == 0: #added this
+        return 0
+    else:
+        return a / b
